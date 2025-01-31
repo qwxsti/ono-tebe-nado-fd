@@ -37,7 +37,7 @@ header {
 
 .logo-black {
   display: block;
-  margin-right: 151px;
+  margin-right: 145px;
   width: 135px;
   height: 105px;
 }
@@ -96,7 +96,7 @@ header {
   font-size: 22px;
   font-weight: normal;
   text-transform: uppercase;
-  word-spacing: 20px;
+  word-spacing: 0.9em;
 }
 
 .cover_button {
